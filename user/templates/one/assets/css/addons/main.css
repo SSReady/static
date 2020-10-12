@@ -171,7 +171,7 @@ h5 {
 }
 .payment-f2falipay,
 .payment-alipay {
-    background-image: url('../img/alipay.svg');
+    background-image: url('https://cdn.jsdelivr.net/gh/SSReady/static/user/templates/one/assets/img/addons/alipay.svg');
     width: 14px;
     height: 14px;
     display: inline-block;
@@ -181,7 +181,7 @@ h5 {
 }
 .payment-weixinpay,
 .payment-WePay {
-    background-image: url('../img/wepay.svg');
+    background-image: url('https://cdn.jsdelivr.net/gh/SSReady/static/user/templates/one/assets/img/addons/wepay.svg');
     width: 14px;
     height: 14px;
     display: inline-block;
@@ -190,7 +190,7 @@ h5 {
     margin-right: 2px;
 }
 .payment-paypal {
-    background-image: url('../img/paypal.svg');
+    background-image: url('https://cdn.jsdelivr.net/gh/SSReady/static/user/templates/one/assets/img/addons/paypal.svg');
     width: 14px;
     height: 14px;
     display: inline-block;
